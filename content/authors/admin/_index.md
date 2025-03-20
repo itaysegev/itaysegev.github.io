@@ -36,7 +36,7 @@ education:
       Focused on developing a novel multi-objective deep RL algorithm designed to tackle complex estimation tasks, with a primary application in Smart Energy Networks.
   - area: B.Sc. in Computer Engineering
     institution: Technion - Israel Institute of Technology
-    date_start: 2019-24-10
+    date_start: 2019-10-24
     date_end: 2023-08-01
     summary: |
       Presidential Excellence award
